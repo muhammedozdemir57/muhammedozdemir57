@@ -68,10 +68,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedozdemir57/muhammedozdemir57/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/muhammedozdemir57/muhammedozdemir57/output/github-snake.svg" />
 </picture>
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/muhammedozdemir57/count.svg?"  />
 </div>
 
-###
