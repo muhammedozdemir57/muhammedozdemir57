@@ -61,15 +61,13 @@
   </a>
 </div>
 
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR5ZzRnYzQ0b29pYWN1NGp1OWsxNTZnbDVoM2d0aXZhOWtvdnhyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKqLRkXSZc0SriE/giphy.gif"  />
-
-###
-
 <br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedozdemir57/muhammedozdemir57/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedozdemir57/muhammedozdemir57/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/muhammedozdemir57/muhammedozdemir57/output/github-snake.svg" />
+</picture>
 ###
 
 <div align="center">
@@ -77,8 +75,3 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedozdemir57/muhammedozdemir57/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedozdemir57/muhammedozdemir57/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/muhammedozdemir57/muhammedozdemir57/output/github-snake.svg" />
-</picture>
